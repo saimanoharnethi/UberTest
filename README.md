@@ -1,4 +1,4 @@
-Readme
+Human Resource Module
 ========
 This project is part of the program called Google Summer of Code organized by Google.
 
